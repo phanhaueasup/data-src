@@ -1,4 +1,4 @@
-let data_src={
+{
   "type":"playlist",
   "data":[
       {
