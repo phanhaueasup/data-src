@@ -1,1 +1,24 @@
-
+{
+   "type":"playlist",
+   "data":[
+      {
+         "href":"/#playlist1",
+         "thumbnail":"http://www.pngall.com/wp-content/uploads/2016/03/Cat-PNG-2.png",
+         "name_playlist":"playlist1",
+         "date":"07-05-2022"
+      },
+      {
+         "href":"/#playlist2",
+         "thumbnail":"https://toppng.com/uploads/preview/cat-11521380838sq5q7tscgh.png",
+         "name_playlist":"playlist2",
+         "date":"07-05-2022"
+      },
+      {
+         "href":"/#playlist3",
+         "thumbnail":"https://www.vhv.rs/dpng/d/0-6957_transparent-cat-png-png-download.png",
+         "name_playlist":"playlist3",
+         "date":"07-05-2022"
+      }
+   ],
+   "page":"2"
+}
