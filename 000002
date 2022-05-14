@@ -1,0 +1,45 @@
+{
+   "type":"playlist-images",
+   "playlist-name":"playlist-dog-name",
+   "playlist-info":[
+      {
+        "field":"Category",
+        "value":"Chó",
+      },
+      {
+        "field":"Ngày tạo",
+        "value":"14/05/2022",
+      },
+      {
+        "field":"Upload",
+        "value":"Admin",
+      },
+      {
+        "field":"url",
+        "value":"<a href="/playlist/images/playlist-dog-name">playlist-dog-name</a>"
+      }
+   ],
+   "playlist-detail":"Đây là bộ sưu tập ảnh con chó đẹp, mọi người không thể tìm thấy bộ sưu tập ảnh nào đẹp hơn đâu, heehe",
+   "data":[
+      {
+         "img-src":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=640:*",
+         "img-alt":"con chó 1"
+      },
+      {
+         "img-src":"https://www.discoverdogs.org.uk/wp-content/uploads/2021/09/Pepper-BorderCollie-RachelOates-18.jpg",
+         "img-alt":"con chó 2"
+      },
+      {
+         "img-src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR-7BqlmqLjvKf58Uz5FobDx5liRZybE5Vug&usqp=CAU",
+         "img-alt":"con chó 3"
+      },
+      {
+         "img-src":"https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2022-03/black-lab-favorite-dog-main-220315-e8e0ee.jpg",
+         "img-alt":"con chó 4"
+      },
+      {
+         "img-src":"https://i.natgeofe.com/n/4f5aaece-3300-41a4-b2a8-ed2708a0a27c/domestic-dog_thumb_3x4.jpg",
+         "img-alt":"con chó 5"
+      }
+   ]
+}
