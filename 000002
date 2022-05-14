@@ -3,20 +3,20 @@
    "playlist-name":"playlist-dog-name",
    "playlist-info":[
       {
-        "field":"Category",
-        "value":"Chó",
+         "field":"Category",
+         "value":"Chó"
       },
       {
-        "field":"Ngày tạo",
-        "value":"14/05/2022",
+         "field":"Ngày tạo",
+         "value":"14/05/2022"
       },
       {
-        "field":"Upload",
-        "value":"Admin",
+         "field":"Upload",
+         "value":"Admin"
       },
       {
-        "field":"url",
-        "value":"<a href='/playlist/images/playlist-dog-name'>playlist-dog-name</a>"
+         "field":"url",
+         "value":"<a href='/playlist/images/playlist-dog-name'>playlist-dog-name</a>"
       }
    ],
    "playlist-detail":"Đây là bộ sưu tập ảnh con chó đẹp, mọi người không thể tìm thấy bộ sưu tập ảnh nào đẹp hơn đâu, heehe",
