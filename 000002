@@ -16,7 +16,7 @@
       },
       {
         "field":"url",
-        "value":"<a href="/playlist/images/playlist-dog-name">playlist-dog-name</a>"
+        "value":"<a href='/playlist/images/playlist-dog-name'>playlist-dog-name</a>"
       }
    ],
    "playlist-detail":"Đây là bộ sưu tập ảnh con chó đẹp, mọi người không thể tìm thấy bộ sưu tập ảnh nào đẹp hơn đâu, heehe",
